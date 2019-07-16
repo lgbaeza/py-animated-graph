@@ -2,7 +2,7 @@
 
 Create an animated graph from a dataset. For example, we will be using the [Capital Bike Sharing Data set](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
-![animated graph](https://github.com/lgbaeza/py-animated-graph/raw/master/sample_bike.gif)
+![animated graph](https://github.com/lgbaeza/py-animated-graph/blob/master/bike_sample.gif?raw=true)
 
 ## Usage
 
