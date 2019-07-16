@@ -2,6 +2,8 @@
 
 Create an animated graph from a dataset. For example, we will be using the [Capital Bike Sharing Data set](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
+This repo references the PyPi Package available on ![Pypi AnimatedGraphs](https://pypi.org/project/AnimatedGraphs/). If you wish to contribute, feel free to reach out.
+
 ![animated graph](https://github.com/lgbaeza/py-animated-graph/blob/master/bike_sample.gif?raw=true)
 
 ## Usage
