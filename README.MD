@@ -2,7 +2,7 @@
 
 Create an animated graph from a dataset. For example, we will be using the [Capital Bike Sharing Data set](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
-This repo references the PyPi Package available on ![Pypi AnimatedGraphs](https://pypi.org/project/AnimatedGraphs/). If you wish to contribute, feel free to reach out.
+This repo references the PyPi Package available on [Pypi AnimatedGraphs](https://pypi.org/project/AnimatedGraphs/). If you wish to contribute, feel free to reach out.
 
 ![animated graph](https://github.com/lgbaeza/py-animated-graph/blob/master/bike_sample.gif?raw=true)
 
@@ -32,7 +32,7 @@ else:
 
 ## Sample notebbok
 
-The ![sample notebook notebook](https://github.com/lgbaeza/py-animated-graph/blob/master/Animated%20Graph%20Sample%20Usage.ipynb) was created on Azure Machine Leaarning Studio.Create a free account in [https://studio.azureml.net](https://studio.azureml.net)
+The [sample notebook notebook](https://github.com/lgbaeza/py-animated-graph/blob/master/Animated%20Graph%20Sample%20Usage.ipynb) was created on Azure Machine Leaarning Studio.Create a free account in [https://studio.azureml.net](https://studio.azureml.net)
 
 * Create an account in Azure ML
 * Create a dataset using your CSV file
