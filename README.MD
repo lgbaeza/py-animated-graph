@@ -1,19 +1,19 @@
 ## Python animated graph
 
-Crea una visualización animada del dataset de [Capital Bike Sharing](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+Create an animated graph from a dataset. For example, we will be using the [Capital Bike Sharing Data set](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
-![animated graph](https://github.com/lgbaeza/py-animated-graph/raw/master/Bike%20Rental%20Animated.gif)
+![animated graph](https://github.com/lgbaeza/py-animated-graph/raw/master/sample_bike.gif)
 
-## Cómo usarlo
+## Usage
 
-Este notebook está realizado en Azure Machine Leaarning Studio. Obtén una cuenta gratis en [https://studio.azureml.net](https://studio.azureml.net)
+This notebook was created on Azure Machine Leaarning Studio.Create a free account in [https://studio.azureml.net](https://studio.azureml.net)
 
-* Regístrate en Azure ML Studio
-* Crea un notebook
-* Crea un dataset con el CSV de Capital Bike Sharing (El DS deberá llamarse "Bike Rental UCI dataset")
-* Carga las imágenes a la raíz del notebook de jupyter
-* Ejecuta el notebook
-* Clic derecho y guardar la imagen como GIF
+* Create an account in Azure ML
+* Create a dataset using your CSV file
+* Import the notebook
+* Configure the properties of your data set in the CreateGraphBar() function
+* Run the notebook
+* Right click on the generated image and then save as GIF
 
-Autor: Luis Gerardo Baeza
+Author: Luis Gerardo Baeza
 lgbaeza@gmail.com
